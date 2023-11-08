@@ -36,7 +36,7 @@ Here are some of the visualizations generated using the code:
 
 ### 1. Content Type on Netflix
 
-![Content Type Pie Chart]([content_type_pie.png](https://github.com/saynashirzaad/Netflix-Dataset-Exploration/blob/main/content_by_country.png))
+![Content Type Pie Chart](content_type_pie.png)
 
 This pie chart shows the distribution of content on Netflix, with 2/3 being movies and 1/3 being TV shows.
 
